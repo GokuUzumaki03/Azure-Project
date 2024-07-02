@@ -1,5 +1,3 @@
--- Sales in Video Games
-
 Select * From [VideoGames].[dbo].[Cleaned Video Games Sales]
 
 -----------------------------------------------------------------------------------------------------
