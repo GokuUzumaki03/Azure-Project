@@ -28,3 +28,5 @@ FROM [VideoGames].[dbo].[Cleaned Video Games Sales]
 WHERE Global_sales IS NOT NULL
 GROUP BY YearOfRelease
 Order By SUM(Global_sales) DESC;
+
+----------------------------------------------------------------------------------------------------------
