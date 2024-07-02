@@ -1,4 +1,4 @@
-Select * From [VideoGames].[dbo].[Cleaned Video Games Sales]
+Select * From [VideoGames].[dbo].[Cleaned Video Games Sales] 
 
 -----------------------------------------------------------------------------------------------------
 
